@@ -25,3 +25,4 @@ Once all the files are downloaded, the "**Model.ipynb**" file can be accessed an
 ```
 jupyter-lab
 ```
+_To recieve the model analysis code, please feel free to reach out directly._
