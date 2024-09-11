@@ -2,8 +2,8 @@
 This study uses DESNZ and Energy Systems Catapult datasets and Python scientific computing methodologies to develop machine-learning models that predict ASHP energy consumption, efficiency, and cost savings.
 
 ### Acknowledegements
-Dr Peter Brommer
-Warwick Centre for Predictive Modelling
+Dr Peter Brommer<br>
+Warwick Centre for Predictive Modelling<br>
 The University of Warwick
 
 ### Download Training Dataset
