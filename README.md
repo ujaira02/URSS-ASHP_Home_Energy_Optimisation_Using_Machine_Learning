@@ -7,7 +7,9 @@ To download the training dataset from the Department for Energy Security and Net
 Once the files from this repository are also downloaded, move the entire contents of both **9050csv** files into the "**TrainingData**" folder, found in this repository's "**Data**" folder. 
 
 Now open the terminal use commands to direct yourelf to the location of the downloaded "**TrainingData**" folder.
-...
+
+```
 (ls -1 | grep -v "^PropertyIds.csv$" | sort | awk 'BEGIN {print "property_id"} {print $0}' > PropertyIds.csv)
-...
+```
+
 This code edits the file "**PropertyIds.csv**" within "**TrainingData**", to input all the filenames of the training data properties under the column "**property_id**". For example the first file may be called "**PopertyID=EOH0001.csv**", so that should be the first entry under "**property_id**".
