@@ -11,7 +11,7 @@ To download the training dataset from the Department for Energy Security and Net
 * "**9050csv_cleansed_data_set1_b693745c14a63a7ed1c6299c5abe1a19**"
 * "**9050csv_cleansed_data_set2_130a6915e7f8a17bb83efabdbdb7ec87**". 
 
-Once the files from this repository are also downloaded, move the entire contents of both **9050csv_...** files into the "**TrainingData**" folder, found in this repository's "**Data**" folder. 
+Once the files from this repository are also downloaded, move the entire contents of both **9050csv_cleansed_data_...** files into the "**TrainingData**" folder, found in this repository's "**Data**" folder. 
 
 Now open the terminal and use commands to direct yourself to the location of the downloaded "**TrainingData**" folder.
 
