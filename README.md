@@ -1,4 +1,8 @@
 # URSS - Home Energy Optimisation: Enhancing Heat Pump Efficiency Through Data-Driven Insights
+
+_To cite this work, use the following:_
+_U. Abdullah and P. Brommer, “Home Energy Optimisation: Enhancing Heat Pump Efficiency through Data-Driven Insights,” URSS SHOWCASE, accessed June 11, 2026, https://urss.warwick.ac.uk/items/show/711._
+
 The Department for Energy Security and Net Zero (DESNZ) has launched the "Electrification of Heat" project to decarbonise domestic heating through air-source heat pumps (ASHPs). This study uses DESNZ and Energy Systems Catapult datasets and Python scientific computing methodologies to develop machine-learning models that predict ASHP energy consumption, efficiency, and cost savings. The goal is to support informed decisions by policymakers, consumers, and energy providers, ultimately reducing electricity costs and carbon emissions in UK households.
 
 ### Acknowledgements
